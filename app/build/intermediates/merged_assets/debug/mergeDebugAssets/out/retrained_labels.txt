@@ -1,0 +1,8 @@
+dog
+tiger
+bear
+jaguars
+cow
+rhinoceros
+elephant
+cat 

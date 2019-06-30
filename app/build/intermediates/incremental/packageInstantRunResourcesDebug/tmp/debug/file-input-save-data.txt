@@ -1,0 +1,11 @@
+#Internal package file, do not edit.
+#Thu Jun 27 09:38:48 ICT 2019
+1.base=G\:\\APK\\Project\\Test\\app\\build\\intermediates\\merged_assets\\debug\\mergeDebugAssets\\out
+0.baseType=DIRECTORY
+1.baseType=DIRECTORY
+count=2
+1.set=ASSET
+0.path=rounded_graph.pb
+0.set=ASSET
+0.base=G\:\\APK\\Project\\Test\\app\\build\\intermediates\\merged_assets\\debug\\mergeDebugAssets\\out
+1.path=retrained_labels.txt
